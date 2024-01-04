@@ -3,7 +3,7 @@ Obter as informações de um pedido contendo N itens, sendo N uma entrada fornec
 
 1. **Seguir o seguinte diagrama de classe:**
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/exercicio_composicao/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/exercicio_fixacao_composicao/blob/master/img/diagrama_classe.png)
     
 
 ## Exemplo
